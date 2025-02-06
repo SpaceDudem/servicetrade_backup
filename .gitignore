@@ -2,3 +2,9 @@ node_modules
 
 # Jetbrains IDEs
 .idea
+
+dist/
+.env
+*.log
+coverage/
+.DS_Store
